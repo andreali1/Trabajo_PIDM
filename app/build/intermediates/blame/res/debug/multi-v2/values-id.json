@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\brayanjhosmel\\AndroidStudioProjects\\CameraBarcodeQRScanner-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-id\\values-id.xml",
+            "outputFile": "C:\\Users\\brayanjhosmel\\AndroidStudioProjects\\TrabajoPIDM\\Trabajo_PIDM\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-id\\values-id.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\brayanjhosmel\\.gradle\\caches\\transforms-2\\files-2.1\\4d0d7dcac4d0df5f8ef275e80387ba80\\zxing-android-embedded-3.2.0\\res\\values-id\\values-id.xml",
+                    "source": "C:\\Users\\brayanjhosmel\\.gradle\\caches\\transforms-2\\files-2.1\\4e4172f85b5db8d6d77f81fe9f999e1e\\zxing-android-embedded-3.2.0\\res\\values-id\\values-id.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

@@ -7,6 +7,8 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.WindowManager;
 
+
+
 public class SplashActivity extends AppCompatActivity
 {
     private final int dur_splash=4000;

@@ -1,223 +1,281 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\brayanjhosmel\AndroidStudioProjects\CameraBarcodeQRScanner-master\app\src\main\AndroidManifest.xml:2:1-22:12
-INJECTED from C:\Users\brayanjhosmel\AndroidStudioProjects\CameraBarcodeQRScanner-master\app\src\main\AndroidManifest.xml:2:1-22:12
-INJECTED from C:\Users\brayanjhosmel\AndroidStudioProjects\CameraBarcodeQRScanner-master\app\src\main\AndroidManifest.xml:2:1-22:12
-INJECTED from C:\Users\brayanjhosmel\AndroidStudioProjects\CameraBarcodeQRScanner-master\app\src\main\AndroidManifest.xml:2:1-22:12
-MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\8516ac599c0f39cda6e75249f41fc5c3\appcompat-v7-28.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\008c8b69eef145b955d4d9e9784aa5e4\constraint-layout-1.1.3\AndroidManifest.xml:2:1-11:12
-MERGED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4d0d7dcac4d0df5f8ef275e80387ba80\zxing-android-embedded-3.2.0\AndroidManifest.xml:17:1-55:12
-MERGED from [com.android.support:support-v4:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\ce2f6058b582880ec3c9aa6ee9f900c8\support-v4-28.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\617b01740c113f7e30a40704763698d9\support-fragment-28.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\848337694e969f557867fc4c71ee4df1\animated-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\de983ce595cc890b2d4203f95c95cbc2\support-core-ui-28.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\931dc0732495a48676338e3096e222d8\support-core-utils-28.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\1606b3689a512e702c708aeff54dc275\support-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\27df1f4f4d89b5d3f90bafe68e1a11d9\support-media-compat-28.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:loader:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\53a136253a346194954ba8d49e55508c\loader-28.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:viewpager:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\0053af6d543e80f2eca2dfa34c8f8cd4\viewpager-28.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\54d979b97cccdbacfd20983c6e6fa172\coordinatorlayout-28.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\694c26a5b2f5f971c67e70ae0fee62cd\drawerlayout-28.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\6686ec5f2e2ab44ae21c1eb445c99a3b\slidingpanelayout-28.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:customview:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\25f9131f098f8a4ac4a98754913f6b72\customview-28.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\a7f0b0af0b8bf1f81bd2e824811a5547\swiperefreshlayout-28.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\58f91a9ca0994ae02be35d76a8d8620d\asynclayoutinflater-28.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\ccf94a4f227dfa4f17156620e28a8b98\support-compat-28.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\ec51a15ecdd6ac6bc414bac2bbd5ef52\versionedparcelable-28.0.0\AndroidManifest.xml:17:1-25:12
-MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\f2e189d9c9c6a4d1eca5e283d6c960d7\cursoradapter-28.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\f8071bc478da969c504fd95a5be6aaf8\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:documentfile:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\aeb7294d6d68d8c7eedcd7bf25b6a920\documentfile-28.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\ade294bed9caf3f29b70e263efe27c86\localbroadcastmanager-28.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:print:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\b550f02102518269b5ae49ce098d1bbd\print-28.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\ecf2828b954b598dde19702f30d5ac54\viewmodel-1.1.1\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:interpolator:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\a0712c74e2562104cfa1829d4f9a06a2\interpolator-28.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\780607b29fa9b8b916b13db491ef41f2\livedata-1.1.1\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\178d52fd0f4d875d0c412c649f532470\livedata-core-1.1.1\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.1] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\d8ef00b68490a45f49fd0664d6982489\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\brayanjhosmel\AndroidStudioProjects\CameraBarcodeQRScanner-master\app\src\main\AndroidManifest.xml:2:1-22:12
-INJECTED from C:\Users\brayanjhosmel\AndroidStudioProjects\CameraBarcodeQRScanner-master\app\src\main\AndroidManifest.xml:2:1-22:12
-INJECTED from C:\Users\brayanjhosmel\AndroidStudioProjects\CameraBarcodeQRScanner-master\app\src\main\AndroidManifest.xml:2:1-22:12
+ADDED from C:\Users\brayanjhosmel\AndroidStudioProjects\TrabajoPIDM\Trabajo_PIDM\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\brayanjhosmel\AndroidStudioProjects\TrabajoPIDM\Trabajo_PIDM\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\brayanjhosmel\AndroidStudioProjects\TrabajoPIDM\Trabajo_PIDM\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\brayanjhosmel\AndroidStudioProjects\TrabajoPIDM\Trabajo_PIDM\app\src\main\AndroidManifest.xml:2:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\e53e6699c735c7883b14c74572f1e58c\appcompat-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\bfd6f7629ae74e2879ea1f71bcd82782\constraint-layout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4e4172f85b5db8d6d77f81fe9f999e1e\zxing-android-embedded-3.2.0\AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.firebase:firebase-database:16.0.4] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\8a0eefbfb75d8e89116dfc1e19da4a73\firebase-database-16.0.4\AndroidManifest.xml:15:1-25:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\3fb7c829d7ad5c220d4a1f6fa0784a50\play-services-base-16.0.1\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\c7b9440393dab39e9143c444e2c0c64f\firebase-common-16.0.3\AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\228e559628ba8f7a4ee92a094eea0766\play-services-tasks-16.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-database-collection:16.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\7f929fd555fa3af61800aac31f747a7f\firebase-database-collection-16.0.0\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\2cce686f32e2192df3469d78d6f3b0c9\play-services-basement-16.0.1\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\701ca1f88940160c34bbf7e6042bd343\support-v4-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\356692fecc3e0328f423fb2bca22f7fd\support-fragment-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\1cdedf40497a83d1a4458aac6acc76b4\animated-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\fb2154853993e8e61de2cdcff9b25657\support-core-ui-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4dffdc003aabbd55eec7977c46b754ce\support-core-utils-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\65ecdd496e100106bd407580ed66ca29\support-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\5bdb73eab826197e9200a7366ae609b0\support-media-compat-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\87a46f766f0a6dd45dbaced6f478f385\loader-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\70b9d92c58a97648c66a5a3651183cb0\viewpager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\852721d033b68c6fc33c92e6832146f9\coordinatorlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\b622d6ac6cc866f603a2de22ee4692ac\drawerlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\bf0aa59f3edbddf8a398a81a75892ab0\slidingpanelayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\c374f265744ef2ee763bdb071f7b2dd5\customview-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\ad705d3317121c64fe2d85c09fe77584\swiperefreshlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\da0acf31f125f86a12a960cf8fca3b4f\asynclayoutinflater-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\2fa81dea95b8741300919160134c5580\support-compat-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\3b2321f6a9f2e860c5354c343487f6ee\versionedparcelable-28.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\59a295d2bab37e7e245ea5e24a4ab7d6\cursoradapter-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\1a4d27d8ab1b5c98d0293c971f821ac4\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\28f6d4d39b24bb29498146f05b4d7770\documentfile-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\8331396bf016659a85953c89c6a400d1\localbroadcastmanager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\9d7898a5909f3a4a02f862c2b67a3c15\print-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\aaf65d8dc86f934825ea4b745b8cecd4\viewmodel-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\ad15fc42ea6598dcca6fe8c312ef8a78\interpolator-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\d961e3586acea91d36b971779dc08858\livedata-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\523e90210636a3752797afacdbdfe6b9\livedata-core-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\98ca6ef81ee1c09b687c379810bc6d3d\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\brayanjhosmel\AndroidStudioProjects\TrabajoPIDM\Trabajo_PIDM\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\brayanjhosmel\AndroidStudioProjects\TrabajoPIDM\Trabajo_PIDM\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\brayanjhosmel\AndroidStudioProjects\TrabajoPIDM\Trabajo_PIDM\app\src\main\AndroidManifest.xml:2:1-22:12
 	package
-		ADDED from C:\Users\brayanjhosmel\AndroidStudioProjects\CameraBarcodeQRScanner-master\app\src\main\AndroidManifest.xml:3:5-53
-		INJECTED from C:\Users\brayanjhosmel\AndroidStudioProjects\CameraBarcodeQRScanner-master\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\brayanjhosmel\AndroidStudioProjects\CameraBarcodeQRScanner-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\brayanjhosmel\AndroidStudioProjects\TrabajoPIDM\Trabajo_PIDM\app\src\main\AndroidManifest.xml:3:5-53
+		INJECTED from C:\Users\brayanjhosmel\AndroidStudioProjects\TrabajoPIDM\Trabajo_PIDM\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\brayanjhosmel\AndroidStudioProjects\TrabajoPIDM\Trabajo_PIDM\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\brayanjhosmel\AndroidStudioProjects\CameraBarcodeQRScanner-master\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\brayanjhosmel\AndroidStudioProjects\CameraBarcodeQRScanner-master\app\src\main\AndroidManifest.xml:2:1-22:12
-		INJECTED from C:\Users\brayanjhosmel\AndroidStudioProjects\CameraBarcodeQRScanner-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\brayanjhosmel\AndroidStudioProjects\TrabajoPIDM\Trabajo_PIDM\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\brayanjhosmel\AndroidStudioProjects\TrabajoPIDM\Trabajo_PIDM\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from C:\Users\brayanjhosmel\AndroidStudioProjects\TrabajoPIDM\Trabajo_PIDM\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\brayanjhosmel\AndroidStudioProjects\CameraBarcodeQRScanner-master\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\brayanjhosmel\AndroidStudioProjects\CameraBarcodeQRScanner-master\app\src\main\AndroidManifest.xml:2:1-22:12
-		INJECTED from C:\Users\brayanjhosmel\AndroidStudioProjects\CameraBarcodeQRScanner-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\brayanjhosmel\AndroidStudioProjects\TrabajoPIDM\Trabajo_PIDM\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\brayanjhosmel\AndroidStudioProjects\TrabajoPIDM\Trabajo_PIDM\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from C:\Users\brayanjhosmel\AndroidStudioProjects\TrabajoPIDM\Trabajo_PIDM\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\brayanjhosmel\AndroidStudioProjects\CameraBarcodeQRScanner-master\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\brayanjhosmel\AndroidStudioProjects\TrabajoPIDM\Trabajo_PIDM\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\brayanjhosmel\AndroidStudioProjects\CameraBarcodeQRScanner-master\app\src\main\AndroidManifest.xml:5:5-20:19
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\008c8b69eef145b955d4d9e9784aa5e4\constraint-layout-1.1.3\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\008c8b69eef145b955d4d9e9784aa5e4\constraint-layout-1.1.3\AndroidManifest.xml:9:5-20
-MERGED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4d0d7dcac4d0df5f8ef275e80387ba80\zxing-android-embedded-3.2.0\AndroidManifest.xml:45:5-53:19
-MERGED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4d0d7dcac4d0df5f8ef275e80387ba80\zxing-android-embedded-3.2.0\AndroidManifest.xml:45:5-53:19
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\ccf94a4f227dfa4f17156620e28a8b98\support-compat-28.0.0\AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\ccf94a4f227dfa4f17156620e28a8b98\support-compat-28.0.0\AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\ec51a15ecdd6ac6bc414bac2bbd5ef52\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\ec51a15ecdd6ac6bc414bac2bbd5ef52\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+ADDED from C:\Users\brayanjhosmel\AndroidStudioProjects\TrabajoPIDM\Trabajo_PIDM\app\src\main\AndroidManifest.xml:5:5-20:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\bfd6f7629ae74e2879ea1f71bcd82782\constraint-layout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\bfd6f7629ae74e2879ea1f71bcd82782\constraint-layout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4e4172f85b5db8d6d77f81fe9f999e1e\zxing-android-embedded-3.2.0\AndroidManifest.xml:45:5-53:19
+MERGED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4e4172f85b5db8d6d77f81fe9f999e1e\zxing-android-embedded-3.2.0\AndroidManifest.xml:45:5-53:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\3fb7c829d7ad5c220d4a1f6fa0784a50\play-services-base-16.0.1\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\3fb7c829d7ad5c220d4a1f6fa0784a50\play-services-base-16.0.1\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\c7b9440393dab39e9143c444e2c0c64f\firebase-common-16.0.3\AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\c7b9440393dab39e9143c444e2c0c64f\firebase-common-16.0.3\AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\228e559628ba8f7a4ee92a094eea0766\play-services-tasks-16.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\228e559628ba8f7a4ee92a094eea0766\play-services-tasks-16.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\2cce686f32e2192df3469d78d6f3b0c9\play-services-basement-16.0.1\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\2cce686f32e2192df3469d78d6f3b0c9\play-services-basement-16.0.1\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\2fa81dea95b8741300919160134c5580\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\2fa81dea95b8741300919160134c5580\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\3b2321f6a9f2e860c5354c343487f6ee\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\3b2321f6a9f2e860c5354c343487f6ee\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
 	android:appComponentFactory
-		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\ccf94a4f227dfa4f17156620e28a8b98\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\2fa81dea95b8741300919160134c5580\support-compat-28.0.0\AndroidManifest.xml:22:18-91
 	android:supportsRtl
-		ADDED from C:\Users\brayanjhosmel\AndroidStudioProjects\CameraBarcodeQRScanner-master\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from C:\Users\brayanjhosmel\AndroidStudioProjects\TrabajoPIDM\Trabajo_PIDM\app\src\main\AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from C:\Users\brayanjhosmel\AndroidStudioProjects\CameraBarcodeQRScanner-master\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from C:\Users\brayanjhosmel\AndroidStudioProjects\TrabajoPIDM\Trabajo_PIDM\app\src\main\AndroidManifest.xml:8:9-41
 	android:roundIcon
-		ADDED from C:\Users\brayanjhosmel\AndroidStudioProjects\CameraBarcodeQRScanner-master\app\src\main\AndroidManifest.xml:9:9-54
+		ADDED from C:\Users\brayanjhosmel\AndroidStudioProjects\TrabajoPIDM\Trabajo_PIDM\app\src\main\AndroidManifest.xml:9:9-54
 	android:icon
-		ADDED from C:\Users\brayanjhosmel\AndroidStudioProjects\CameraBarcodeQRScanner-master\app\src\main\AndroidManifest.xml:7:9-43
+		ADDED from C:\Users\brayanjhosmel\AndroidStudioProjects\TrabajoPIDM\Trabajo_PIDM\app\src\main\AndroidManifest.xml:7:9-43
 	android:allowBackup
-		ADDED from C:\Users\brayanjhosmel\AndroidStudioProjects\CameraBarcodeQRScanner-master\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from C:\Users\brayanjhosmel\AndroidStudioProjects\TrabajoPIDM\Trabajo_PIDM\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from C:\Users\brayanjhosmel\AndroidStudioProjects\CameraBarcodeQRScanner-master\app\src\main\AndroidManifest.xml:11:9-59
+		ADDED from C:\Users\brayanjhosmel\AndroidStudioProjects\TrabajoPIDM\Trabajo_PIDM\app\src\main\AndroidManifest.xml:11:9-59
 activity#com.copypaste.jzk.camerabarcodescanner.MainActivity
-ADDED from C:\Users\brayanjhosmel\AndroidStudioProjects\CameraBarcodeQRScanner-master\app\src\main\AndroidManifest.xml:12:9-59
+ADDED from C:\Users\brayanjhosmel\AndroidStudioProjects\TrabajoPIDM\Trabajo_PIDM\app\src\main\AndroidManifest.xml:12:9-59
 	android:name
-		ADDED from C:\Users\brayanjhosmel\AndroidStudioProjects\CameraBarcodeQRScanner-master\app\src\main\AndroidManifest.xml:12:19-47
+		ADDED from C:\Users\brayanjhosmel\AndroidStudioProjects\TrabajoPIDM\Trabajo_PIDM\app\src\main\AndroidManifest.xml:12:19-47
 activity#com.copypaste.jzk.camerabarcodescanner.SplashActivity
-ADDED from C:\Users\brayanjhosmel\AndroidStudioProjects\CameraBarcodeQRScanner-master\app\src\main\AndroidManifest.xml:13:9-19:20
+ADDED from C:\Users\brayanjhosmel\AndroidStudioProjects\TrabajoPIDM\Trabajo_PIDM\app\src\main\AndroidManifest.xml:13:9-19:20
 	android:name
-		ADDED from C:\Users\brayanjhosmel\AndroidStudioProjects\CameraBarcodeQRScanner-master\app\src\main\AndroidManifest.xml:13:19-49
+		ADDED from C:\Users\brayanjhosmel\AndroidStudioProjects\TrabajoPIDM\Trabajo_PIDM\app\src\main\AndroidManifest.xml:13:19-49
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\brayanjhosmel\AndroidStudioProjects\CameraBarcodeQRScanner-master\app\src\main\AndroidManifest.xml:14:13-18:29
+ADDED from C:\Users\brayanjhosmel\AndroidStudioProjects\TrabajoPIDM\Trabajo_PIDM\app\src\main\AndroidManifest.xml:14:13-18:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\brayanjhosmel\AndroidStudioProjects\CameraBarcodeQRScanner-master\app\src\main\AndroidManifest.xml:15:17-69
+ADDED from C:\Users\brayanjhosmel\AndroidStudioProjects\TrabajoPIDM\Trabajo_PIDM\app\src\main\AndroidManifest.xml:15:17-69
 	android:name
-		ADDED from C:\Users\brayanjhosmel\AndroidStudioProjects\CameraBarcodeQRScanner-master\app\src\main\AndroidManifest.xml:15:25-66
+		ADDED from C:\Users\brayanjhosmel\AndroidStudioProjects\TrabajoPIDM\Trabajo_PIDM\app\src\main\AndroidManifest.xml:15:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\brayanjhosmel\AndroidStudioProjects\CameraBarcodeQRScanner-master\app\src\main\AndroidManifest.xml:17:17-77
+ADDED from C:\Users\brayanjhosmel\AndroidStudioProjects\TrabajoPIDM\Trabajo_PIDM\app\src\main\AndroidManifest.xml:17:17-77
 	android:name
-		ADDED from C:\Users\brayanjhosmel\AndroidStudioProjects\CameraBarcodeQRScanner-master\app\src\main\AndroidManifest.xml:17:27-74
+		ADDED from C:\Users\brayanjhosmel\AndroidStudioProjects\TrabajoPIDM\Trabajo_PIDM\app\src\main\AndroidManifest.xml:17:27-74
 uses-sdk
-INJECTED from C:\Users\brayanjhosmel\AndroidStudioProjects\CameraBarcodeQRScanner-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\brayanjhosmel\AndroidStudioProjects\CameraBarcodeQRScanner-master\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\brayanjhosmel\AndroidStudioProjects\CameraBarcodeQRScanner-master\app\src\main\AndroidManifest.xml
-MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\8516ac599c0f39cda6e75249f41fc5c3\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\8516ac599c0f39cda6e75249f41fc5c3\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\008c8b69eef145b955d4d9e9784aa5e4\constraint-layout-1.1.3\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\008c8b69eef145b955d4d9e9784aa5e4\constraint-layout-1.1.3\AndroidManifest.xml:5:5-7:41
-MERGED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4d0d7dcac4d0df5f8ef275e80387ba80\zxing-android-embedded-3.2.0\AndroidManifest.xml:19:5-43
-MERGED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4d0d7dcac4d0df5f8ef275e80387ba80\zxing-android-embedded-3.2.0\AndroidManifest.xml:19:5-43
-MERGED from [com.android.support:support-v4:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\ce2f6058b582880ec3c9aa6ee9f900c8\support-v4-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\ce2f6058b582880ec3c9aa6ee9f900c8\support-v4-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\617b01740c113f7e30a40704763698d9\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\617b01740c113f7e30a40704763698d9\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\848337694e969f557867fc4c71ee4df1\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\848337694e969f557867fc4c71ee4df1\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\de983ce595cc890b2d4203f95c95cbc2\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\de983ce595cc890b2d4203f95c95cbc2\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\931dc0732495a48676338e3096e222d8\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\931dc0732495a48676338e3096e222d8\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\1606b3689a512e702c708aeff54dc275\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\1606b3689a512e702c708aeff54dc275\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\27df1f4f4d89b5d3f90bafe68e1a11d9\support-media-compat-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\27df1f4f4d89b5d3f90bafe68e1a11d9\support-media-compat-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\53a136253a346194954ba8d49e55508c\loader-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\53a136253a346194954ba8d49e55508c\loader-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\0053af6d543e80f2eca2dfa34c8f8cd4\viewpager-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\0053af6d543e80f2eca2dfa34c8f8cd4\viewpager-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\54d979b97cccdbacfd20983c6e6fa172\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\54d979b97cccdbacfd20983c6e6fa172\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\694c26a5b2f5f971c67e70ae0fee62cd\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\694c26a5b2f5f971c67e70ae0fee62cd\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\6686ec5f2e2ab44ae21c1eb445c99a3b\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\6686ec5f2e2ab44ae21c1eb445c99a3b\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\25f9131f098f8a4ac4a98754913f6b72\customview-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\25f9131f098f8a4ac4a98754913f6b72\customview-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\a7f0b0af0b8bf1f81bd2e824811a5547\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\a7f0b0af0b8bf1f81bd2e824811a5547\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\58f91a9ca0994ae02be35d76a8d8620d\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\58f91a9ca0994ae02be35d76a8d8620d\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\ccf94a4f227dfa4f17156620e28a8b98\support-compat-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\ccf94a4f227dfa4f17156620e28a8b98\support-compat-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\ec51a15ecdd6ac6bc414bac2bbd5ef52\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\ec51a15ecdd6ac6bc414bac2bbd5ef52\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\f2e189d9c9c6a4d1eca5e283d6c960d7\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\f2e189d9c9c6a4d1eca5e283d6c960d7\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\f8071bc478da969c504fd95a5be6aaf8\runtime-1.1.1\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\f8071bc478da969c504fd95a5be6aaf8\runtime-1.1.1\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\aeb7294d6d68d8c7eedcd7bf25b6a920\documentfile-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\aeb7294d6d68d8c7eedcd7bf25b6a920\documentfile-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\ade294bed9caf3f29b70e263efe27c86\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\ade294bed9caf3f29b70e263efe27c86\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\b550f02102518269b5ae49ce098d1bbd\print-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\b550f02102518269b5ae49ce098d1bbd\print-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\ecf2828b954b598dde19702f30d5ac54\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\ecf2828b954b598dde19702f30d5ac54\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\a0712c74e2562104cfa1829d4f9a06a2\interpolator-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\a0712c74e2562104cfa1829d4f9a06a2\interpolator-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\780607b29fa9b8b916b13db491ef41f2\livedata-1.1.1\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\780607b29fa9b8b916b13db491ef41f2\livedata-1.1.1\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\178d52fd0f4d875d0c412c649f532470\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\178d52fd0f4d875d0c412c649f532470\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\d8ef00b68490a45f49fd0664d6982489\runtime-1.1.1\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\d8ef00b68490a45f49fd0664d6982489\runtime-1.1.1\AndroidManifest.xml:20:5-44
-INJECTED from C:\Users\brayanjhosmel\AndroidStudioProjects\CameraBarcodeQRScanner-master\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\brayanjhosmel\AndroidStudioProjects\CameraBarcodeQRScanner-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\brayanjhosmel\AndroidStudioProjects\TrabajoPIDM\Trabajo_PIDM\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\brayanjhosmel\AndroidStudioProjects\TrabajoPIDM\Trabajo_PIDM\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\brayanjhosmel\AndroidStudioProjects\TrabajoPIDM\Trabajo_PIDM\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\e53e6699c735c7883b14c74572f1e58c\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\e53e6699c735c7883b14c74572f1e58c\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\bfd6f7629ae74e2879ea1f71bcd82782\constraint-layout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\bfd6f7629ae74e2879ea1f71bcd82782\constraint-layout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4e4172f85b5db8d6d77f81fe9f999e1e\zxing-android-embedded-3.2.0\AndroidManifest.xml:19:5-43
+MERGED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4e4172f85b5db8d6d77f81fe9f999e1e\zxing-android-embedded-3.2.0\AndroidManifest.xml:19:5-43
+MERGED from [com.google.firebase:firebase-database:16.0.4] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\8a0eefbfb75d8e89116dfc1e19da4a73\firebase-database-16.0.4\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-database:16.0.4] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\8a0eefbfb75d8e89116dfc1e19da4a73\firebase-database-16.0.4\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\3fb7c829d7ad5c220d4a1f6fa0784a50\play-services-base-16.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\3fb7c829d7ad5c220d4a1f6fa0784a50\play-services-base-16.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\c7b9440393dab39e9143c444e2c0c64f\firebase-common-16.0.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\c7b9440393dab39e9143c444e2c0c64f\firebase-common-16.0.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\228e559628ba8f7a4ee92a094eea0766\play-services-tasks-16.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\228e559628ba8f7a4ee92a094eea0766\play-services-tasks-16.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\7f929fd555fa3af61800aac31f747a7f\firebase-database-collection-16.0.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\7f929fd555fa3af61800aac31f747a7f\firebase-database-collection-16.0.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\2cce686f32e2192df3469d78d6f3b0c9\play-services-basement-16.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\2cce686f32e2192df3469d78d6f3b0c9\play-services-basement-16.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\701ca1f88940160c34bbf7e6042bd343\support-v4-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\701ca1f88940160c34bbf7e6042bd343\support-v4-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\356692fecc3e0328f423fb2bca22f7fd\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\356692fecc3e0328f423fb2bca22f7fd\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\1cdedf40497a83d1a4458aac6acc76b4\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\1cdedf40497a83d1a4458aac6acc76b4\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\fb2154853993e8e61de2cdcff9b25657\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\fb2154853993e8e61de2cdcff9b25657\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4dffdc003aabbd55eec7977c46b754ce\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4dffdc003aabbd55eec7977c46b754ce\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\65ecdd496e100106bd407580ed66ca29\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\65ecdd496e100106bd407580ed66ca29\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\5bdb73eab826197e9200a7366ae609b0\support-media-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\5bdb73eab826197e9200a7366ae609b0\support-media-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\87a46f766f0a6dd45dbaced6f478f385\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\87a46f766f0a6dd45dbaced6f478f385\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\70b9d92c58a97648c66a5a3651183cb0\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\70b9d92c58a97648c66a5a3651183cb0\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\852721d033b68c6fc33c92e6832146f9\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\852721d033b68c6fc33c92e6832146f9\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\b622d6ac6cc866f603a2de22ee4692ac\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\b622d6ac6cc866f603a2de22ee4692ac\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\bf0aa59f3edbddf8a398a81a75892ab0\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\bf0aa59f3edbddf8a398a81a75892ab0\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\c374f265744ef2ee763bdb071f7b2dd5\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\c374f265744ef2ee763bdb071f7b2dd5\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\ad705d3317121c64fe2d85c09fe77584\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\ad705d3317121c64fe2d85c09fe77584\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\da0acf31f125f86a12a960cf8fca3b4f\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\da0acf31f125f86a12a960cf8fca3b4f\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\2fa81dea95b8741300919160134c5580\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\2fa81dea95b8741300919160134c5580\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\3b2321f6a9f2e860c5354c343487f6ee\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\3b2321f6a9f2e860c5354c343487f6ee\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\59a295d2bab37e7e245ea5e24a4ab7d6\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\59a295d2bab37e7e245ea5e24a4ab7d6\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\1a4d27d8ab1b5c98d0293c971f821ac4\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\1a4d27d8ab1b5c98d0293c971f821ac4\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\28f6d4d39b24bb29498146f05b4d7770\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\28f6d4d39b24bb29498146f05b4d7770\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\8331396bf016659a85953c89c6a400d1\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\8331396bf016659a85953c89c6a400d1\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\9d7898a5909f3a4a02f862c2b67a3c15\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\9d7898a5909f3a4a02f862c2b67a3c15\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\aaf65d8dc86f934825ea4b745b8cecd4\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\aaf65d8dc86f934825ea4b745b8cecd4\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\ad15fc42ea6598dcca6fe8c312ef8a78\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\ad15fc42ea6598dcca6fe8c312ef8a78\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\d961e3586acea91d36b971779dc08858\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\d961e3586acea91d36b971779dc08858\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\523e90210636a3752797afacdbdfe6b9\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\523e90210636a3752797afacdbdfe6b9\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\98ca6ef81ee1c09b687c379810bc6d3d\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\98ca6ef81ee1c09b687c379810bc6d3d\runtime-1.1.1\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\brayanjhosmel\AndroidStudioProjects\TrabajoPIDM\Trabajo_PIDM\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\brayanjhosmel\AndroidStudioProjects\TrabajoPIDM\Trabajo_PIDM\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\brayanjhosmel\AndroidStudioProjects\CameraBarcodeQRScanner-master\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\brayanjhosmel\AndroidStudioProjects\CameraBarcodeQRScanner-master\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\brayanjhosmel\AndroidStudioProjects\CameraBarcodeQRScanner-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\brayanjhosmel\AndroidStudioProjects\TrabajoPIDM\Trabajo_PIDM\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\brayanjhosmel\AndroidStudioProjects\TrabajoPIDM\Trabajo_PIDM\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\brayanjhosmel\AndroidStudioProjects\TrabajoPIDM\Trabajo_PIDM\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\brayanjhosmel\AndroidStudioProjects\CameraBarcodeQRScanner-master\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\brayanjhosmel\AndroidStudioProjects\CameraBarcodeQRScanner-master\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\brayanjhosmel\AndroidStudioProjects\CameraBarcodeQRScanner-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\brayanjhosmel\AndroidStudioProjects\TrabajoPIDM\Trabajo_PIDM\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\brayanjhosmel\AndroidStudioProjects\TrabajoPIDM\Trabajo_PIDM\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\brayanjhosmel\AndroidStudioProjects\TrabajoPIDM\Trabajo_PIDM\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.CAMERA
-ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4d0d7dcac4d0df5f8ef275e80387ba80\zxing-android-embedded-3.2.0\AndroidManifest.xml:21:5-65
+ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4e4172f85b5db8d6d77f81fe9f999e1e\zxing-android-embedded-3.2.0\AndroidManifest.xml:21:5-65
 	android:name
-		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4d0d7dcac4d0df5f8ef275e80387ba80\zxing-android-embedded-3.2.0\AndroidManifest.xml:21:22-62
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4e4172f85b5db8d6d77f81fe9f999e1e\zxing-android-embedded-3.2.0\AndroidManifest.xml:21:22-62
 uses-feature#android.hardware.camera
-ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4d0d7dcac4d0df5f8ef275e80387ba80\zxing-android-embedded-3.2.0\AndroidManifest.xml:24:5-26:36
+ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4e4172f85b5db8d6d77f81fe9f999e1e\zxing-android-embedded-3.2.0\AndroidManifest.xml:24:5-26:36
 	android:required
-		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4d0d7dcac4d0df5f8ef275e80387ba80\zxing-android-embedded-3.2.0\AndroidManifest.xml:26:9-33
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4e4172f85b5db8d6d77f81fe9f999e1e\zxing-android-embedded-3.2.0\AndroidManifest.xml:26:9-33
 	android:name
-		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4d0d7dcac4d0df5f8ef275e80387ba80\zxing-android-embedded-3.2.0\AndroidManifest.xml:25:9-47
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4e4172f85b5db8d6d77f81fe9f999e1e\zxing-android-embedded-3.2.0\AndroidManifest.xml:25:9-47
 uses-feature#android.hardware.camera.front
-ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4d0d7dcac4d0df5f8ef275e80387ba80\zxing-android-embedded-3.2.0\AndroidManifest.xml:27:5-29:36
+ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4e4172f85b5db8d6d77f81fe9f999e1e\zxing-android-embedded-3.2.0\AndroidManifest.xml:27:5-29:36
 	android:required
-		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4d0d7dcac4d0df5f8ef275e80387ba80\zxing-android-embedded-3.2.0\AndroidManifest.xml:29:9-33
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4e4172f85b5db8d6d77f81fe9f999e1e\zxing-android-embedded-3.2.0\AndroidManifest.xml:29:9-33
 	android:name
-		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4d0d7dcac4d0df5f8ef275e80387ba80\zxing-android-embedded-3.2.0\AndroidManifest.xml:28:9-53
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4e4172f85b5db8d6d77f81fe9f999e1e\zxing-android-embedded-3.2.0\AndroidManifest.xml:28:9-53
 uses-feature#android.hardware.camera.autofocus
-ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4d0d7dcac4d0df5f8ef275e80387ba80\zxing-android-embedded-3.2.0\AndroidManifest.xml:32:5-34:36
+ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4e4172f85b5db8d6d77f81fe9f999e1e\zxing-android-embedded-3.2.0\AndroidManifest.xml:32:5-34:36
 	android:required
-		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4d0d7dcac4d0df5f8ef275e80387ba80\zxing-android-embedded-3.2.0\AndroidManifest.xml:34:9-33
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4e4172f85b5db8d6d77f81fe9f999e1e\zxing-android-embedded-3.2.0\AndroidManifest.xml:34:9-33
 	android:name
-		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4d0d7dcac4d0df5f8ef275e80387ba80\zxing-android-embedded-3.2.0\AndroidManifest.xml:33:9-57
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4e4172f85b5db8d6d77f81fe9f999e1e\zxing-android-embedded-3.2.0\AndroidManifest.xml:33:9-57
 uses-feature#android.hardware.camera.flash
-ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4d0d7dcac4d0df5f8ef275e80387ba80\zxing-android-embedded-3.2.0\AndroidManifest.xml:35:5-37:36
+ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4e4172f85b5db8d6d77f81fe9f999e1e\zxing-android-embedded-3.2.0\AndroidManifest.xml:35:5-37:36
 	android:required
-		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4d0d7dcac4d0df5f8ef275e80387ba80\zxing-android-embedded-3.2.0\AndroidManifest.xml:37:9-33
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4e4172f85b5db8d6d77f81fe9f999e1e\zxing-android-embedded-3.2.0\AndroidManifest.xml:37:9-33
 	android:name
-		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4d0d7dcac4d0df5f8ef275e80387ba80\zxing-android-embedded-3.2.0\AndroidManifest.xml:36:9-53
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4e4172f85b5db8d6d77f81fe9f999e1e\zxing-android-embedded-3.2.0\AndroidManifest.xml:36:9-53
 uses-feature#android.hardware.screen.landscape
-ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4d0d7dcac4d0df5f8ef275e80387ba80\zxing-android-embedded-3.2.0\AndroidManifest.xml:38:5-40:36
+ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4e4172f85b5db8d6d77f81fe9f999e1e\zxing-android-embedded-3.2.0\AndroidManifest.xml:38:5-40:36
 	android:required
-		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4d0d7dcac4d0df5f8ef275e80387ba80\zxing-android-embedded-3.2.0\AndroidManifest.xml:40:9-33
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4e4172f85b5db8d6d77f81fe9f999e1e\zxing-android-embedded-3.2.0\AndroidManifest.xml:40:9-33
 	android:name
-		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4d0d7dcac4d0df5f8ef275e80387ba80\zxing-android-embedded-3.2.0\AndroidManifest.xml:39:9-57
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4e4172f85b5db8d6d77f81fe9f999e1e\zxing-android-embedded-3.2.0\AndroidManifest.xml:39:9-57
 uses-feature#android.hardware.wifi
-ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4d0d7dcac4d0df5f8ef275e80387ba80\zxing-android-embedded-3.2.0\AndroidManifest.xml:41:5-43:36
+ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4e4172f85b5db8d6d77f81fe9f999e1e\zxing-android-embedded-3.2.0\AndroidManifest.xml:41:5-43:36
 	android:required
-		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4d0d7dcac4d0df5f8ef275e80387ba80\zxing-android-embedded-3.2.0\AndroidManifest.xml:43:9-33
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4e4172f85b5db8d6d77f81fe9f999e1e\zxing-android-embedded-3.2.0\AndroidManifest.xml:43:9-33
 	android:name
-		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4d0d7dcac4d0df5f8ef275e80387ba80\zxing-android-embedded-3.2.0\AndroidManifest.xml:42:9-45
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4e4172f85b5db8d6d77f81fe9f999e1e\zxing-android-embedded-3.2.0\AndroidManifest.xml:42:9-45
 activity#com.journeyapps.barcodescanner.CaptureActivity
-ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4d0d7dcac4d0df5f8ef275e80387ba80\zxing-android-embedded-3.2.0\AndroidManifest.xml:46:9-52:63
+ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4e4172f85b5db8d6d77f81fe9f999e1e\zxing-android-embedded-3.2.0\AndroidManifest.xml:46:9-52:63
 	android:screenOrientation
-		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4d0d7dcac4d0df5f8ef275e80387ba80\zxing-android-embedded-3.2.0\AndroidManifest.xml:49:13-56
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4e4172f85b5db8d6d77f81fe9f999e1e\zxing-android-embedded-3.2.0\AndroidManifest.xml:49:13-56
 	android:clearTaskOnLaunch
-		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4d0d7dcac4d0df5f8ef275e80387ba80\zxing-android-embedded-3.2.0\AndroidManifest.xml:48:13-45
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4e4172f85b5db8d6d77f81fe9f999e1e\zxing-android-embedded-3.2.0\AndroidManifest.xml:48:13-45
 	android:stateNotNeeded
-		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4d0d7dcac4d0df5f8ef275e80387ba80\zxing-android-embedded-3.2.0\AndroidManifest.xml:50:13-42
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4e4172f85b5db8d6d77f81fe9f999e1e\zxing-android-embedded-3.2.0\AndroidManifest.xml:50:13-42
 	android:windowSoftInputMode
-		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4d0d7dcac4d0df5f8ef275e80387ba80\zxing-android-embedded-3.2.0\AndroidManifest.xml:52:13-60
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4e4172f85b5db8d6d77f81fe9f999e1e\zxing-android-embedded-3.2.0\AndroidManifest.xml:52:13-60
 	android:theme
-		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4d0d7dcac4d0df5f8ef275e80387ba80\zxing-android-embedded-3.2.0\AndroidManifest.xml:51:13-54
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4e4172f85b5db8d6d77f81fe9f999e1e\zxing-android-embedded-3.2.0\AndroidManifest.xml:51:13-54
 	android:name
-		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4d0d7dcac4d0df5f8ef275e80387ba80\zxing-android-embedded-3.2.0\AndroidManifest.xml:47:13-74
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4e4172f85b5db8d6d77f81fe9f999e1e\zxing-android-embedded-3.2.0\AndroidManifest.xml:47:13-74
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-database:16.0.4] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\8a0eefbfb75d8e89116dfc1e19da4a73\firebase-database-16.0.4\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-database:16.0.4] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\8a0eefbfb75d8e89116dfc1e19da4a73\firebase-database-16.0.4\AndroidManifest.xml:22:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.firebase:firebase-database:16.0.4] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\8a0eefbfb75d8e89116dfc1e19da4a73\firebase-database-16.0.4\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-database:16.0.4] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\8a0eefbfb75d8e89116dfc1e19da4a73\firebase-database-16.0.4\AndroidManifest.xml:23:22-64
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\3fb7c829d7ad5c220d4a1f6fa0784a50\play-services-base-16.0.1\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\3fb7c829d7ad5c220d4a1f6fa0784a50\play-services-base-16.0.1\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\3fb7c829d7ad5c220d4a1f6fa0784a50\play-services-base-16.0.1\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\3fb7c829d7ad5c220d4a1f6fa0784a50\play-services-base-16.0.1\AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\c7b9440393dab39e9143c444e2c0c64f\firebase-common-16.0.3\AndroidManifest.xml:10:9-14:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\c7b9440393dab39e9143c444e2c0c64f\firebase-common-16.0.3\AndroidManifest.xml:12:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\c7b9440393dab39e9143c444e2c0c64f\firebase-common-16.0.3\AndroidManifest.xml:13:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\c7b9440393dab39e9143c444e2c0c64f\firebase-common-16.0.3\AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\c7b9440393dab39e9143c444e2c0c64f\firebase-common-16.0.3\AndroidManifest.xml:11:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\2cce686f32e2192df3469d78d6f3b0c9\play-services-basement-16.0.1\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\2cce686f32e2192df3469d78d6f3b0c9\play-services-basement-16.0.1\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\2cce686f32e2192df3469d78d6f3b0c9\play-services-basement-16.0.1\AndroidManifest.xml:24:13-58

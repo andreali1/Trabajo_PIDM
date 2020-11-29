@@ -6,100 +6,133 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="19"
-8-->C:\Users\brayanjhosmel\AndroidStudioProjects\CameraBarcodeQRScanner-master\app\src\main\AndroidManifest.xml
+8-->C:\Users\brayanjhosmel\AndroidStudioProjects\TrabajoPIDM\Trabajo_PIDM\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="28" />
-9-->C:\Users\brayanjhosmel\AndroidStudioProjects\CameraBarcodeQRScanner-master\app\src\main\AndroidManifest.xml
+9-->C:\Users\brayanjhosmel\AndroidStudioProjects\TrabajoPIDM\Trabajo_PIDM\app\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.CAMERA" /> <!-- Don't require camera, as this requires a rear camera. This allows it to work on the Nexus 7 -->
-11-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4d0d7dcac4d0df5f8ef275e80387ba80\zxing-android-embedded-3.2.0\AndroidManifest.xml:21:5-65
-11-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4d0d7dcac4d0df5f8ef275e80387ba80\zxing-android-embedded-3.2.0\AndroidManifest.xml:21:22-62
+11-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4e4172f85b5db8d6d77f81fe9f999e1e\zxing-android-embedded-3.2.0\AndroidManifest.xml:21:5-65
+11-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4e4172f85b5db8d6d77f81fe9f999e1e\zxing-android-embedded-3.2.0\AndroidManifest.xml:21:22-62
 12    <uses-feature
-12-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4d0d7dcac4d0df5f8ef275e80387ba80\zxing-android-embedded-3.2.0\AndroidManifest.xml:24:5-26:36
+12-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4e4172f85b5db8d6d77f81fe9f999e1e\zxing-android-embedded-3.2.0\AndroidManifest.xml:24:5-26:36
 13        android:name="android.hardware.camera"
-13-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4d0d7dcac4d0df5f8ef275e80387ba80\zxing-android-embedded-3.2.0\AndroidManifest.xml:25:9-47
+13-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4e4172f85b5db8d6d77f81fe9f999e1e\zxing-android-embedded-3.2.0\AndroidManifest.xml:25:9-47
 14        android:required="false" />
-14-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4d0d7dcac4d0df5f8ef275e80387ba80\zxing-android-embedded-3.2.0\AndroidManifest.xml:26:9-33
+14-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4e4172f85b5db8d6d77f81fe9f999e1e\zxing-android-embedded-3.2.0\AndroidManifest.xml:26:9-33
 15    <uses-feature
-15-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4d0d7dcac4d0df5f8ef275e80387ba80\zxing-android-embedded-3.2.0\AndroidManifest.xml:27:5-29:36
+15-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4e4172f85b5db8d6d77f81fe9f999e1e\zxing-android-embedded-3.2.0\AndroidManifest.xml:27:5-29:36
 16        android:name="android.hardware.camera.front"
-16-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4d0d7dcac4d0df5f8ef275e80387ba80\zxing-android-embedded-3.2.0\AndroidManifest.xml:28:9-53
+16-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4e4172f85b5db8d6d77f81fe9f999e1e\zxing-android-embedded-3.2.0\AndroidManifest.xml:28:9-53
 17        android:required="false" /> <!-- TODO replace above two with next line after Android 4.2 -->
-17-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4d0d7dcac4d0df5f8ef275e80387ba80\zxing-android-embedded-3.2.0\AndroidManifest.xml:29:9-33
+17-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4e4172f85b5db8d6d77f81fe9f999e1e\zxing-android-embedded-3.2.0\AndroidManifest.xml:29:9-33
 18    <!-- <uses-feature android:name="android.hardware.camera.any"/> -->
 19    <uses-feature
-19-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4d0d7dcac4d0df5f8ef275e80387ba80\zxing-android-embedded-3.2.0\AndroidManifest.xml:32:5-34:36
+19-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4e4172f85b5db8d6d77f81fe9f999e1e\zxing-android-embedded-3.2.0\AndroidManifest.xml:32:5-34:36
 20        android:name="android.hardware.camera.autofocus"
-20-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4d0d7dcac4d0df5f8ef275e80387ba80\zxing-android-embedded-3.2.0\AndroidManifest.xml:33:9-57
+20-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4e4172f85b5db8d6d77f81fe9f999e1e\zxing-android-embedded-3.2.0\AndroidManifest.xml:33:9-57
 21        android:required="false" />
-21-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4d0d7dcac4d0df5f8ef275e80387ba80\zxing-android-embedded-3.2.0\AndroidManifest.xml:34:9-33
+21-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4e4172f85b5db8d6d77f81fe9f999e1e\zxing-android-embedded-3.2.0\AndroidManifest.xml:34:9-33
 22    <uses-feature
-22-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4d0d7dcac4d0df5f8ef275e80387ba80\zxing-android-embedded-3.2.0\AndroidManifest.xml:35:5-37:36
+22-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4e4172f85b5db8d6d77f81fe9f999e1e\zxing-android-embedded-3.2.0\AndroidManifest.xml:35:5-37:36
 23        android:name="android.hardware.camera.flash"
-23-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4d0d7dcac4d0df5f8ef275e80387ba80\zxing-android-embedded-3.2.0\AndroidManifest.xml:36:9-53
+23-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4e4172f85b5db8d6d77f81fe9f999e1e\zxing-android-embedded-3.2.0\AndroidManifest.xml:36:9-53
 24        android:required="false" />
-24-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4d0d7dcac4d0df5f8ef275e80387ba80\zxing-android-embedded-3.2.0\AndroidManifest.xml:37:9-33
+24-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4e4172f85b5db8d6d77f81fe9f999e1e\zxing-android-embedded-3.2.0\AndroidManifest.xml:37:9-33
 25    <uses-feature
-25-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4d0d7dcac4d0df5f8ef275e80387ba80\zxing-android-embedded-3.2.0\AndroidManifest.xml:38:5-40:36
+25-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4e4172f85b5db8d6d77f81fe9f999e1e\zxing-android-embedded-3.2.0\AndroidManifest.xml:38:5-40:36
 26        android:name="android.hardware.screen.landscape"
-26-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4d0d7dcac4d0df5f8ef275e80387ba80\zxing-android-embedded-3.2.0\AndroidManifest.xml:39:9-57
+26-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4e4172f85b5db8d6d77f81fe9f999e1e\zxing-android-embedded-3.2.0\AndroidManifest.xml:39:9-57
 27        android:required="false" />
-27-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4d0d7dcac4d0df5f8ef275e80387ba80\zxing-android-embedded-3.2.0\AndroidManifest.xml:40:9-33
+27-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4e4172f85b5db8d6d77f81fe9f999e1e\zxing-android-embedded-3.2.0\AndroidManifest.xml:40:9-33
 28    <uses-feature
-28-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4d0d7dcac4d0df5f8ef275e80387ba80\zxing-android-embedded-3.2.0\AndroidManifest.xml:41:5-43:36
+28-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4e4172f85b5db8d6d77f81fe9f999e1e\zxing-android-embedded-3.2.0\AndroidManifest.xml:41:5-43:36
 29        android:name="android.hardware.wifi"
-29-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4d0d7dcac4d0df5f8ef275e80387ba80\zxing-android-embedded-3.2.0\AndroidManifest.xml:42:9-45
+29-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4e4172f85b5db8d6d77f81fe9f999e1e\zxing-android-embedded-3.2.0\AndroidManifest.xml:42:9-45
 30        android:required="false" />
-30-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4d0d7dcac4d0df5f8ef275e80387ba80\zxing-android-embedded-3.2.0\AndroidManifest.xml:43:9-33
+30-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4e4172f85b5db8d6d77f81fe9f999e1e\zxing-android-embedded-3.2.0\AndroidManifest.xml:43:9-33
 31
-32    <application
-32-->C:\Users\brayanjhosmel\AndroidStudioProjects\CameraBarcodeQRScanner-master\app\src\main\AndroidManifest.xml:5:5-20:19
-33        android:allowBackup="true"
-33-->C:\Users\brayanjhosmel\AndroidStudioProjects\CameraBarcodeQRScanner-master\app\src\main\AndroidManifest.xml:6:9-35
-34        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
-34-->[com.android.support:support-compat:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\ccf94a4f227dfa4f17156620e28a8b98\support-compat-28.0.0\AndroidManifest.xml:22:18-91
-35        android:debuggable="true"
-36        android:icon="@mipmap/ic_launcher"
-36-->C:\Users\brayanjhosmel\AndroidStudioProjects\CameraBarcodeQRScanner-master\app\src\main\AndroidManifest.xml:7:9-43
-37        android:label="@string/app_name"
-37-->C:\Users\brayanjhosmel\AndroidStudioProjects\CameraBarcodeQRScanner-master\app\src\main\AndroidManifest.xml:8:9-41
-38        android:roundIcon="@mipmap/ic_launcher_round"
-38-->C:\Users\brayanjhosmel\AndroidStudioProjects\CameraBarcodeQRScanner-master\app\src\main\AndroidManifest.xml:9:9-54
-39        android:supportsRtl="true"
-39-->C:\Users\brayanjhosmel\AndroidStudioProjects\CameraBarcodeQRScanner-master\app\src\main\AndroidManifest.xml:10:9-35
-40        android:testOnly="true"
-41        android:theme="@style/Theme.AppCompat.NoActionBar" >
-41-->C:\Users\brayanjhosmel\AndroidStudioProjects\CameraBarcodeQRScanner-master\app\src\main\AndroidManifest.xml:11:9-59
-42        <activity android:name="com.copypaste.jzk.camerabarcodescanner.MainActivity" />
-42-->C:\Users\brayanjhosmel\AndroidStudioProjects\CameraBarcodeQRScanner-master\app\src\main\AndroidManifest.xml:12:9-59
-42-->C:\Users\brayanjhosmel\AndroidStudioProjects\CameraBarcodeQRScanner-master\app\src\main\AndroidManifest.xml:12:19-47
-43        <activity android:name="com.copypaste.jzk.camerabarcodescanner.SplashActivity" >
-43-->C:\Users\brayanjhosmel\AndroidStudioProjects\CameraBarcodeQRScanner-master\app\src\main\AndroidManifest.xml:13:9-19:20
-43-->C:\Users\brayanjhosmel\AndroidStudioProjects\CameraBarcodeQRScanner-master\app\src\main\AndroidManifest.xml:13:19-49
-44            <intent-filter>
-44-->C:\Users\brayanjhosmel\AndroidStudioProjects\CameraBarcodeQRScanner-master\app\src\main\AndroidManifest.xml:14:13-18:29
-45                <action android:name="android.intent.action.MAIN" />
-45-->C:\Users\brayanjhosmel\AndroidStudioProjects\CameraBarcodeQRScanner-master\app\src\main\AndroidManifest.xml:15:17-69
-45-->C:\Users\brayanjhosmel\AndroidStudioProjects\CameraBarcodeQRScanner-master\app\src\main\AndroidManifest.xml:15:25-66
-46
-47                <category android:name="android.intent.category.LAUNCHER" />
-47-->C:\Users\brayanjhosmel\AndroidStudioProjects\CameraBarcodeQRScanner-master\app\src\main\AndroidManifest.xml:17:17-77
-47-->C:\Users\brayanjhosmel\AndroidStudioProjects\CameraBarcodeQRScanner-master\app\src\main\AndroidManifest.xml:17:27-74
-48            </intent-filter>
-49        </activity>
-50        <activity
-50-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4d0d7dcac4d0df5f8ef275e80387ba80\zxing-android-embedded-3.2.0\AndroidManifest.xml:46:9-52:63
-51            android:name="com.journeyapps.barcodescanner.CaptureActivity"
-51-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4d0d7dcac4d0df5f8ef275e80387ba80\zxing-android-embedded-3.2.0\AndroidManifest.xml:47:13-74
-52            android:clearTaskOnLaunch="true"
-52-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4d0d7dcac4d0df5f8ef275e80387ba80\zxing-android-embedded-3.2.0\AndroidManifest.xml:48:13-45
-53            android:screenOrientation="sensorLandscape"
-53-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4d0d7dcac4d0df5f8ef275e80387ba80\zxing-android-embedded-3.2.0\AndroidManifest.xml:49:13-56
-54            android:stateNotNeeded="true"
-54-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4d0d7dcac4d0df5f8ef275e80387ba80\zxing-android-embedded-3.2.0\AndroidManifest.xml:50:13-42
-55            android:theme="@style/zxing_CaptureTheme"
-55-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4d0d7dcac4d0df5f8ef275e80387ba80\zxing-android-embedded-3.2.0\AndroidManifest.xml:51:13-54
-56            android:windowSoftInputMode="stateAlwaysHidden" />
-56-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4d0d7dcac4d0df5f8ef275e80387ba80\zxing-android-embedded-3.2.0\AndroidManifest.xml:52:13-60
-57    </application>
-58
-59</manifest>
+32    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+32-->[com.google.firebase:firebase-database:16.0.4] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\8a0eefbfb75d8e89116dfc1e19da4a73\firebase-database-16.0.4\AndroidManifest.xml:22:5-79
+32-->[com.google.firebase:firebase-database:16.0.4] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\8a0eefbfb75d8e89116dfc1e19da4a73\firebase-database-16.0.4\AndroidManifest.xml:22:22-76
+33    <uses-permission android:name="android.permission.INTERNET" />
+33-->[com.google.firebase:firebase-database:16.0.4] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\8a0eefbfb75d8e89116dfc1e19da4a73\firebase-database-16.0.4\AndroidManifest.xml:23:5-67
+33-->[com.google.firebase:firebase-database:16.0.4] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\8a0eefbfb75d8e89116dfc1e19da4a73\firebase-database-16.0.4\AndroidManifest.xml:23:22-64
+34
+35    <application
+35-->C:\Users\brayanjhosmel\AndroidStudioProjects\TrabajoPIDM\Trabajo_PIDM\app\src\main\AndroidManifest.xml:5:5-20:19
+36        android:allowBackup="true"
+36-->C:\Users\brayanjhosmel\AndroidStudioProjects\TrabajoPIDM\Trabajo_PIDM\app\src\main\AndroidManifest.xml:6:9-35
+37        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+37-->[com.android.support:support-compat:28.0.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\2fa81dea95b8741300919160134c5580\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+38        android:debuggable="true"
+39        android:icon="@mipmap/ic_launcher"
+39-->C:\Users\brayanjhosmel\AndroidStudioProjects\TrabajoPIDM\Trabajo_PIDM\app\src\main\AndroidManifest.xml:7:9-43
+40        android:label="@string/app_name"
+40-->C:\Users\brayanjhosmel\AndroidStudioProjects\TrabajoPIDM\Trabajo_PIDM\app\src\main\AndroidManifest.xml:8:9-41
+41        android:roundIcon="@mipmap/ic_launcher_round"
+41-->C:\Users\brayanjhosmel\AndroidStudioProjects\TrabajoPIDM\Trabajo_PIDM\app\src\main\AndroidManifest.xml:9:9-54
+42        android:supportsRtl="true"
+42-->C:\Users\brayanjhosmel\AndroidStudioProjects\TrabajoPIDM\Trabajo_PIDM\app\src\main\AndroidManifest.xml:10:9-35
+43        android:testOnly="true"
+44        android:theme="@style/Theme.AppCompat.NoActionBar" >
+44-->C:\Users\brayanjhosmel\AndroidStudioProjects\TrabajoPIDM\Trabajo_PIDM\app\src\main\AndroidManifest.xml:11:9-59
+45        <activity android:name="com.copypaste.jzk.camerabarcodescanner.MainActivity" />
+45-->C:\Users\brayanjhosmel\AndroidStudioProjects\TrabajoPIDM\Trabajo_PIDM\app\src\main\AndroidManifest.xml:12:9-59
+45-->C:\Users\brayanjhosmel\AndroidStudioProjects\TrabajoPIDM\Trabajo_PIDM\app\src\main\AndroidManifest.xml:12:19-47
+46        <activity android:name="com.copypaste.jzk.camerabarcodescanner.SplashActivity" >
+46-->C:\Users\brayanjhosmel\AndroidStudioProjects\TrabajoPIDM\Trabajo_PIDM\app\src\main\AndroidManifest.xml:13:9-19:20
+46-->C:\Users\brayanjhosmel\AndroidStudioProjects\TrabajoPIDM\Trabajo_PIDM\app\src\main\AndroidManifest.xml:13:19-49
+47            <intent-filter>
+47-->C:\Users\brayanjhosmel\AndroidStudioProjects\TrabajoPIDM\Trabajo_PIDM\app\src\main\AndroidManifest.xml:14:13-18:29
+48                <action android:name="android.intent.action.MAIN" />
+48-->C:\Users\brayanjhosmel\AndroidStudioProjects\TrabajoPIDM\Trabajo_PIDM\app\src\main\AndroidManifest.xml:15:17-69
+48-->C:\Users\brayanjhosmel\AndroidStudioProjects\TrabajoPIDM\Trabajo_PIDM\app\src\main\AndroidManifest.xml:15:25-66
+49
+50                <category android:name="android.intent.category.LAUNCHER" />
+50-->C:\Users\brayanjhosmel\AndroidStudioProjects\TrabajoPIDM\Trabajo_PIDM\app\src\main\AndroidManifest.xml:17:17-77
+50-->C:\Users\brayanjhosmel\AndroidStudioProjects\TrabajoPIDM\Trabajo_PIDM\app\src\main\AndroidManifest.xml:17:27-74
+51            </intent-filter>
+52        </activity>
+53        <activity
+53-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4e4172f85b5db8d6d77f81fe9f999e1e\zxing-android-embedded-3.2.0\AndroidManifest.xml:46:9-52:63
+54            android:name="com.journeyapps.barcodescanner.CaptureActivity"
+54-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4e4172f85b5db8d6d77f81fe9f999e1e\zxing-android-embedded-3.2.0\AndroidManifest.xml:47:13-74
+55            android:clearTaskOnLaunch="true"
+55-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4e4172f85b5db8d6d77f81fe9f999e1e\zxing-android-embedded-3.2.0\AndroidManifest.xml:48:13-45
+56            android:screenOrientation="sensorLandscape"
+56-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4e4172f85b5db8d6d77f81fe9f999e1e\zxing-android-embedded-3.2.0\AndroidManifest.xml:49:13-56
+57            android:stateNotNeeded="true"
+57-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4e4172f85b5db8d6d77f81fe9f999e1e\zxing-android-embedded-3.2.0\AndroidManifest.xml:50:13-42
+58            android:theme="@style/zxing_CaptureTheme"
+58-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4e4172f85b5db8d6d77f81fe9f999e1e\zxing-android-embedded-3.2.0\AndroidManifest.xml:51:13-54
+59            android:windowSoftInputMode="stateAlwaysHidden" />
+59-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4e4172f85b5db8d6d77f81fe9f999e1e\zxing-android-embedded-3.2.0\AndroidManifest.xml:52:13-60
+60        <activity
+60-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\3fb7c829d7ad5c220d4a1f6fa0784a50\play-services-base-16.0.1\AndroidManifest.xml:23:9-26:75
+61            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+61-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\3fb7c829d7ad5c220d4a1f6fa0784a50\play-services-base-16.0.1\AndroidManifest.xml:24:13-79
+62            android:exported="false"
+62-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\3fb7c829d7ad5c220d4a1f6fa0784a50\play-services-base-16.0.1\AndroidManifest.xml:25:13-37
+63            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+63-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\3fb7c829d7ad5c220d4a1f6fa0784a50\play-services-base-16.0.1\AndroidManifest.xml:26:13-72
+64
+65        <provider
+65-->[com.google.firebase:firebase-common:16.0.3] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\c7b9440393dab39e9143c444e2c0c64f\firebase-common-16.0.3\AndroidManifest.xml:10:9-14:39
+66            android:name="com.google.firebase.provider.FirebaseInitProvider"
+66-->[com.google.firebase:firebase-common:16.0.3] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\c7b9440393dab39e9143c444e2c0c64f\firebase-common-16.0.3\AndroidManifest.xml:11:13-77
+67            android:authorities="com.copypaste.jzk.camerabarcodescanner.firebaseinitprovider"
+67-->[com.google.firebase:firebase-common:16.0.3] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\c7b9440393dab39e9143c444e2c0c64f\firebase-common-16.0.3\AndroidManifest.xml:12:13-72
+68            android:exported="false"
+68-->[com.google.firebase:firebase-common:16.0.3] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\c7b9440393dab39e9143c444e2c0c64f\firebase-common-16.0.3\AndroidManifest.xml:13:13-37
+69            android:initOrder="100" />
+69-->[com.google.firebase:firebase-common:16.0.3] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\c7b9440393dab39e9143c444e2c0c64f\firebase-common-16.0.3\AndroidManifest.xml:14:13-36
+70
+71        <meta-data
+71-->[com.google.android.gms:play-services-basement:16.0.1] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\2cce686f32e2192df3469d78d6f3b0c9\play-services-basement-16.0.1\AndroidManifest.xml:23:9-25:69
+72            android:name="com.google.android.gms.version"
+72-->[com.google.android.gms:play-services-basement:16.0.1] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\2cce686f32e2192df3469d78d6f3b0c9\play-services-basement-16.0.1\AndroidManifest.xml:24:13-58
+73            android:value="@integer/google_play_services_version" />
+73-->[com.google.android.gms:play-services-basement:16.0.1] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\2cce686f32e2192df3469d78d6f3b0c9\play-services-basement-16.0.1\AndroidManifest.xml:25:13-66
+74    </application>
+75
+76</manifest>
