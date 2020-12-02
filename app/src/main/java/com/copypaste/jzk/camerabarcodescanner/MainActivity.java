@@ -92,7 +92,7 @@ public class MainActivity extends AppCompatActivity
          //   Toast.makeText(getApplicationContext(), "No se pudo Escanear", Toast.LENGTH_SHORT).show();
         //} else {
             Toast.makeText(getApplicationContext(), "Si se pudo escanear ", Toast.LENGTH_SHORT).show();
-            databaseReference.child("Ojala").push().setValue(datosUsuario);
+            databaseReference.child("Escaneo").push().setValue(datosUsuario);
         }
 
 
