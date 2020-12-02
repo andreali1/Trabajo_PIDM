@@ -41,6 +41,7 @@ public class MainActivity extends AppCompatActivity
 
 
         databaseReference= FirebaseDatabase.getInstance().getReference();
+
     }
 
     @Override
@@ -51,7 +52,9 @@ public class MainActivity extends AppCompatActivity
         if(result != null)
             if (result.getContents() != null)
             {
-                tvBarCode.setText("El código de barras es:\n" + result.getContents());
+                String codig = result.getContents();
+                tvBarCode.setText("El código de barras es:\n" + codig);
+                cargarDatos(codig);
             }else {
                 tvBarCode.setText("Error al escanear el código de barras");
             }
@@ -72,27 +75,28 @@ public class MainActivity extends AppCompatActivity
                     break;
             }
 
-            cargarDatos(codigo);
+
             //finish();
         }
     };
 
-    private void cargarDatos(final String result)
+    private void cargarDatos(final String codig)
     {
         Map<String, Object> datosUsuario = new HashMap<>();
 
-        datosUsuario.put("Codigo", result);
+        datosUsuario.put("Codigo", codig);
         //Toast.makeText(getApplicationContext(), "Registro satisfactorio", Toast.LENGTH_SHORT).show();
 
-        if (result.equals("")) {
-            Toast.makeText(getApplicationContext(), "No se pudo Escanear", Toast.LENGTH_SHORT).show();
-        } else {
-            Toast.makeText(getApplicationContext(), "Registro satisfactorio", Toast.LENGTH_SHORT).show();
-            databaseReference.child("Registro").push().setValue(datosUsuario);
+        //if (result.equals(""))
+        //{
+         //   Toast.makeText(getApplicationContext(), "No se pudo Escanear", Toast.LENGTH_SHORT).show();
+        //} else {
+            Toast.makeText(getApplicationContext(), "Si se pudo escanear ", Toast.LENGTH_SHORT).show();
+            databaseReference.child("Ojala").push().setValue(datosUsuario);
         }
 
 
-    }
+    //}
 
 
 }
