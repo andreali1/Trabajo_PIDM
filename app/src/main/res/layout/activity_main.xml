@@ -8,11 +8,12 @@
     tools:context=".MainActivity">
 
 
+
     <TextView
         android:id="@+id/textView"
         android:layout_width="179dp"
         android:layout_height="74dp"
-        android:layout_marginTop="60dp"
+        android:layout_marginTop="40dp"
         android:gravity="center"
         android:text="Escaneo de Barras"
         android:textColor="#96001E"

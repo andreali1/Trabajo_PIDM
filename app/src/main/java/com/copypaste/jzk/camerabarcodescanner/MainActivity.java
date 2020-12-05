@@ -95,7 +95,6 @@ public class MainActivity extends AppCompatActivity
             databaseReference.child("Escaneo").push().setValue(datosUsuario);
         }
 
-
     //}
 
 

@@ -73,65 +73,66 @@
 41-->C:\Users\brayanjhosmel\AndroidStudioProjects\TrabajoPIDM\Trabajo_PIDM\app\src\main\AndroidManifest.xml:9:9-54
 42        android:supportsRtl="true"
 42-->C:\Users\brayanjhosmel\AndroidStudioProjects\TrabajoPIDM\Trabajo_PIDM\app\src\main\AndroidManifest.xml:10:9-35
-43        android:theme="@style/Theme.AppCompat.NoActionBar" >
-43-->C:\Users\brayanjhosmel\AndroidStudioProjects\TrabajoPIDM\Trabajo_PIDM\app\src\main\AndroidManifest.xml:11:9-59
-44        <activity android:name="com.copypaste.jzk.camerabarcodescanner.MainActivity" />
-44-->C:\Users\brayanjhosmel\AndroidStudioProjects\TrabajoPIDM\Trabajo_PIDM\app\src\main\AndroidManifest.xml:12:9-59
-44-->C:\Users\brayanjhosmel\AndroidStudioProjects\TrabajoPIDM\Trabajo_PIDM\app\src\main\AndroidManifest.xml:12:19-47
-45        <activity android:name="com.copypaste.jzk.camerabarcodescanner.SplashActivity" >
-45-->C:\Users\brayanjhosmel\AndroidStudioProjects\TrabajoPIDM\Trabajo_PIDM\app\src\main\AndroidManifest.xml:13:9-19:20
-45-->C:\Users\brayanjhosmel\AndroidStudioProjects\TrabajoPIDM\Trabajo_PIDM\app\src\main\AndroidManifest.xml:13:19-49
-46            <intent-filter>
-46-->C:\Users\brayanjhosmel\AndroidStudioProjects\TrabajoPIDM\Trabajo_PIDM\app\src\main\AndroidManifest.xml:14:13-18:29
-47                <action android:name="android.intent.action.MAIN" />
-47-->C:\Users\brayanjhosmel\AndroidStudioProjects\TrabajoPIDM\Trabajo_PIDM\app\src\main\AndroidManifest.xml:15:17-69
-47-->C:\Users\brayanjhosmel\AndroidStudioProjects\TrabajoPIDM\Trabajo_PIDM\app\src\main\AndroidManifest.xml:15:25-66
-48
-49                <category android:name="android.intent.category.LAUNCHER" />
-49-->C:\Users\brayanjhosmel\AndroidStudioProjects\TrabajoPIDM\Trabajo_PIDM\app\src\main\AndroidManifest.xml:17:17-77
-49-->C:\Users\brayanjhosmel\AndroidStudioProjects\TrabajoPIDM\Trabajo_PIDM\app\src\main\AndroidManifest.xml:17:27-74
-50            </intent-filter>
-51        </activity>
-52        <activity
-52-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4e4172f85b5db8d6d77f81fe9f999e1e\zxing-android-embedded-3.2.0\AndroidManifest.xml:46:9-52:63
-53            android:name="com.journeyapps.barcodescanner.CaptureActivity"
-53-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4e4172f85b5db8d6d77f81fe9f999e1e\zxing-android-embedded-3.2.0\AndroidManifest.xml:47:13-74
-54            android:clearTaskOnLaunch="true"
-54-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4e4172f85b5db8d6d77f81fe9f999e1e\zxing-android-embedded-3.2.0\AndroidManifest.xml:48:13-45
-55            android:screenOrientation="sensorLandscape"
-55-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4e4172f85b5db8d6d77f81fe9f999e1e\zxing-android-embedded-3.2.0\AndroidManifest.xml:49:13-56
-56            android:stateNotNeeded="true"
-56-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4e4172f85b5db8d6d77f81fe9f999e1e\zxing-android-embedded-3.2.0\AndroidManifest.xml:50:13-42
-57            android:theme="@style/zxing_CaptureTheme"
-57-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4e4172f85b5db8d6d77f81fe9f999e1e\zxing-android-embedded-3.2.0\AndroidManifest.xml:51:13-54
-58            android:windowSoftInputMode="stateAlwaysHidden" />
-58-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4e4172f85b5db8d6d77f81fe9f999e1e\zxing-android-embedded-3.2.0\AndroidManifest.xml:52:13-60
-59        <activity
-59-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\3fb7c829d7ad5c220d4a1f6fa0784a50\play-services-base-16.0.1\AndroidManifest.xml:23:9-26:75
-60            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-60-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\3fb7c829d7ad5c220d4a1f6fa0784a50\play-services-base-16.0.1\AndroidManifest.xml:24:13-79
-61            android:exported="false"
-61-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\3fb7c829d7ad5c220d4a1f6fa0784a50\play-services-base-16.0.1\AndroidManifest.xml:25:13-37
-62            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-62-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\3fb7c829d7ad5c220d4a1f6fa0784a50\play-services-base-16.0.1\AndroidManifest.xml:26:13-72
-63
-64        <provider
-64-->[com.google.firebase:firebase-common:16.0.3] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\c7b9440393dab39e9143c444e2c0c64f\firebase-common-16.0.3\AndroidManifest.xml:10:9-14:39
-65            android:name="com.google.firebase.provider.FirebaseInitProvider"
-65-->[com.google.firebase:firebase-common:16.0.3] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\c7b9440393dab39e9143c444e2c0c64f\firebase-common-16.0.3\AndroidManifest.xml:11:13-77
-66            android:authorities="com.copypaste.jzk.camerabarcodescanner.firebaseinitprovider"
-66-->[com.google.firebase:firebase-common:16.0.3] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\c7b9440393dab39e9143c444e2c0c64f\firebase-common-16.0.3\AndroidManifest.xml:12:13-72
-67            android:exported="false"
-67-->[com.google.firebase:firebase-common:16.0.3] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\c7b9440393dab39e9143c444e2c0c64f\firebase-common-16.0.3\AndroidManifest.xml:13:13-37
-68            android:initOrder="100" />
-68-->[com.google.firebase:firebase-common:16.0.3] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\c7b9440393dab39e9143c444e2c0c64f\firebase-common-16.0.3\AndroidManifest.xml:14:13-36
-69
-70        <meta-data
-70-->[com.google.android.gms:play-services-basement:16.0.1] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\2cce686f32e2192df3469d78d6f3b0c9\play-services-basement-16.0.1\AndroidManifest.xml:23:9-25:69
-71            android:name="com.google.android.gms.version"
-71-->[com.google.android.gms:play-services-basement:16.0.1] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\2cce686f32e2192df3469d78d6f3b0c9\play-services-basement-16.0.1\AndroidManifest.xml:24:13-58
-72            android:value="@integer/google_play_services_version" />
-72-->[com.google.android.gms:play-services-basement:16.0.1] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\2cce686f32e2192df3469d78d6f3b0c9\play-services-basement-16.0.1\AndroidManifest.xml:25:13-66
-73    </application>
-74
-75</manifest>
+43        android:testOnly="true"
+44        android:theme="@style/Theme.AppCompat.NoActionBar" >
+44-->C:\Users\brayanjhosmel\AndroidStudioProjects\TrabajoPIDM\Trabajo_PIDM\app\src\main\AndroidManifest.xml:11:9-59
+45        <activity android:name="com.copypaste.jzk.camerabarcodescanner.MainActivity" />
+45-->C:\Users\brayanjhosmel\AndroidStudioProjects\TrabajoPIDM\Trabajo_PIDM\app\src\main\AndroidManifest.xml:12:9-59
+45-->C:\Users\brayanjhosmel\AndroidStudioProjects\TrabajoPIDM\Trabajo_PIDM\app\src\main\AndroidManifest.xml:12:19-47
+46        <activity android:name="com.copypaste.jzk.camerabarcodescanner.SplashActivity" >
+46-->C:\Users\brayanjhosmel\AndroidStudioProjects\TrabajoPIDM\Trabajo_PIDM\app\src\main\AndroidManifest.xml:13:9-19:20
+46-->C:\Users\brayanjhosmel\AndroidStudioProjects\TrabajoPIDM\Trabajo_PIDM\app\src\main\AndroidManifest.xml:13:19-49
+47            <intent-filter>
+47-->C:\Users\brayanjhosmel\AndroidStudioProjects\TrabajoPIDM\Trabajo_PIDM\app\src\main\AndroidManifest.xml:14:13-18:29
+48                <action android:name="android.intent.action.MAIN" />
+48-->C:\Users\brayanjhosmel\AndroidStudioProjects\TrabajoPIDM\Trabajo_PIDM\app\src\main\AndroidManifest.xml:15:17-69
+48-->C:\Users\brayanjhosmel\AndroidStudioProjects\TrabajoPIDM\Trabajo_PIDM\app\src\main\AndroidManifest.xml:15:25-66
+49
+50                <category android:name="android.intent.category.LAUNCHER" />
+50-->C:\Users\brayanjhosmel\AndroidStudioProjects\TrabajoPIDM\Trabajo_PIDM\app\src\main\AndroidManifest.xml:17:17-77
+50-->C:\Users\brayanjhosmel\AndroidStudioProjects\TrabajoPIDM\Trabajo_PIDM\app\src\main\AndroidManifest.xml:17:27-74
+51            </intent-filter>
+52        </activity>
+53        <activity
+53-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4e4172f85b5db8d6d77f81fe9f999e1e\zxing-android-embedded-3.2.0\AndroidManifest.xml:46:9-52:63
+54            android:name="com.journeyapps.barcodescanner.CaptureActivity"
+54-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4e4172f85b5db8d6d77f81fe9f999e1e\zxing-android-embedded-3.2.0\AndroidManifest.xml:47:13-74
+55            android:clearTaskOnLaunch="true"
+55-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4e4172f85b5db8d6d77f81fe9f999e1e\zxing-android-embedded-3.2.0\AndroidManifest.xml:48:13-45
+56            android:screenOrientation="sensorLandscape"
+56-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4e4172f85b5db8d6d77f81fe9f999e1e\zxing-android-embedded-3.2.0\AndroidManifest.xml:49:13-56
+57            android:stateNotNeeded="true"
+57-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4e4172f85b5db8d6d77f81fe9f999e1e\zxing-android-embedded-3.2.0\AndroidManifest.xml:50:13-42
+58            android:theme="@style/zxing_CaptureTheme"
+58-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4e4172f85b5db8d6d77f81fe9f999e1e\zxing-android-embedded-3.2.0\AndroidManifest.xml:51:13-54
+59            android:windowSoftInputMode="stateAlwaysHidden" />
+59-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\4e4172f85b5db8d6d77f81fe9f999e1e\zxing-android-embedded-3.2.0\AndroidManifest.xml:52:13-60
+60        <activity
+60-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\3fb7c829d7ad5c220d4a1f6fa0784a50\play-services-base-16.0.1\AndroidManifest.xml:23:9-26:75
+61            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+61-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\3fb7c829d7ad5c220d4a1f6fa0784a50\play-services-base-16.0.1\AndroidManifest.xml:24:13-79
+62            android:exported="false"
+62-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\3fb7c829d7ad5c220d4a1f6fa0784a50\play-services-base-16.0.1\AndroidManifest.xml:25:13-37
+63            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+63-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\3fb7c829d7ad5c220d4a1f6fa0784a50\play-services-base-16.0.1\AndroidManifest.xml:26:13-72
+64
+65        <provider
+65-->[com.google.firebase:firebase-common:16.0.3] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\c7b9440393dab39e9143c444e2c0c64f\firebase-common-16.0.3\AndroidManifest.xml:10:9-14:39
+66            android:name="com.google.firebase.provider.FirebaseInitProvider"
+66-->[com.google.firebase:firebase-common:16.0.3] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\c7b9440393dab39e9143c444e2c0c64f\firebase-common-16.0.3\AndroidManifest.xml:11:13-77
+67            android:authorities="com.copypaste.jzk.camerabarcodescanner.firebaseinitprovider"
+67-->[com.google.firebase:firebase-common:16.0.3] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\c7b9440393dab39e9143c444e2c0c64f\firebase-common-16.0.3\AndroidManifest.xml:12:13-72
+68            android:exported="false"
+68-->[com.google.firebase:firebase-common:16.0.3] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\c7b9440393dab39e9143c444e2c0c64f\firebase-common-16.0.3\AndroidManifest.xml:13:13-37
+69            android:initOrder="100" />
+69-->[com.google.firebase:firebase-common:16.0.3] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\c7b9440393dab39e9143c444e2c0c64f\firebase-common-16.0.3\AndroidManifest.xml:14:13-36
+70
+71        <meta-data
+71-->[com.google.android.gms:play-services-basement:16.0.1] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\2cce686f32e2192df3469d78d6f3b0c9\play-services-basement-16.0.1\AndroidManifest.xml:23:9-25:69
+72            android:name="com.google.android.gms.version"
+72-->[com.google.android.gms:play-services-basement:16.0.1] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\2cce686f32e2192df3469d78d6f3b0c9\play-services-basement-16.0.1\AndroidManifest.xml:24:13-58
+73            android:value="@integer/google_play_services_version" />
+73-->[com.google.android.gms:play-services-basement:16.0.1] C:\Users\brayanjhosmel\.gradle\caches\transforms-2\files-2.1\2cce686f32e2192df3469d78d6f3b0c9\play-services-basement-16.0.1\AndroidManifest.xml:25:13-66
+74    </application>
+75
+76</manifest>
