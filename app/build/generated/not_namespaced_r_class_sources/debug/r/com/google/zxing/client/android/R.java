@@ -42,23 +42,23 @@ public final class R {
         public static final int centerCrop = 0x7f07002a;
         public static final int fitCenter = 0x7f070045;
         public static final int fitXY = 0x7f070046;
-        public static final int zxing_back_button = 0x7f0700a6;
-        public static final int zxing_barcode_scanner = 0x7f0700a7;
-        public static final int zxing_barcode_surface = 0x7f0700a8;
-        public static final int zxing_camera_error = 0x7f0700a9;
-        public static final int zxing_decode = 0x7f0700aa;
-        public static final int zxing_decode_failed = 0x7f0700ab;
-        public static final int zxing_decode_succeeded = 0x7f0700ac;
-        public static final int zxing_possible_result_points = 0x7f0700ad;
-        public static final int zxing_prewiew_size_ready = 0x7f0700ae;
-        public static final int zxing_status_view = 0x7f0700af;
-        public static final int zxing_viewfinder_view = 0x7f0700b0;
+        public static final int zxing_back_button = 0x7f0700a8;
+        public static final int zxing_barcode_scanner = 0x7f0700a9;
+        public static final int zxing_barcode_surface = 0x7f0700aa;
+        public static final int zxing_camera_error = 0x7f0700ab;
+        public static final int zxing_decode = 0x7f0700ac;
+        public static final int zxing_decode_failed = 0x7f0700ad;
+        public static final int zxing_decode_succeeded = 0x7f0700ae;
+        public static final int zxing_possible_result_points = 0x7f0700af;
+        public static final int zxing_prewiew_size_ready = 0x7f0700b0;
+        public static final int zxing_status_view = 0x7f0700b1;
+        public static final int zxing_viewfinder_view = 0x7f0700b2;
     }
     public static final class layout {
         private layout() {}
 
-        public static final int zxing_barcode_scanner = 0x7f090031;
-        public static final int zxing_capture = 0x7f090032;
+        public static final int zxing_barcode_scanner = 0x7f090032;
+        public static final int zxing_capture = 0x7f090033;
     }
     public static final class raw {
         private raw() {}
