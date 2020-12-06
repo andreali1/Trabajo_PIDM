@@ -1,4 +1,4 @@
-#Sun Dec 06 15:27:50 COT 2020
+#Sun Dec 06 18:09:20 COT 2020
 base.0=C\:\\Users\\brayanjhosmel\\AndroidStudioProjects\\TrabajoPIDM\\Trabajo_PIDM\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
