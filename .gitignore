@@ -13,3 +13,5 @@
 .externalNativeBuild
 .idea/gradle.xml
 .idea/vcs.xml
+.idea/compiler.xml
+.idea/jarRepositories.xml
