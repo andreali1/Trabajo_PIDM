@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "198693783517",
+    "firebase_url": "https://trabajopidm.firebaseio.com",
+    "project_id": "trabajopidm",
+    "storage_bucket": "trabajopidm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198693783517:android:2594e4c9b418a334a4d834",
+        "android_client_info": {
+          "package_name": "com.copypaste.jzk.camerabarcodescanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198693783517-48bdk9mr6inb0iejdc4tm8lh5cqjum8p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.copypaste.jzk.camerabarcodescanner",
+            "certificate_hash": "19f5676aac68484093cea1c9d206ade79842547d"
+          }
+        },
+        {
+          "client_id": "198693783517-qvh2q9p0gnh2tsouj80bgh6mcdh103cl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBybq17s0caaEvOTiFtRTlUSozCtqz5BVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198693783517-qvh2q9p0gnh2tsouj80bgh6mcdh103cl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
