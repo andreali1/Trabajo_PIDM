@@ -1,11 +1,13 @@
 package com.copypaste.jzk.camerabarcodescanner;
 
+import android.content.DialogInterface;
 import android.content.Intent;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteStatement;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
+import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.view.View;
@@ -71,6 +73,35 @@ public class MainActivity extends AppCompatActivity
         qrDetailAdapter.notifyDataSetChanged();
         performSql();
 
+
+        tempList.addAll(QrObject);
+        inputSearch.setOnQueryTextListener(new SearchView.OnQueryTextListener()
+        {
+            @Override
+            public boolean onQueryTextSubmit(String s)
+            {
+                return false;
+            }
+
+            @Override
+            public boolean onQueryTextChange(String s)
+            {
+                QrObject.clear();
+                for(QrBeanModel qr: tempList){
+                    if(qr.getQrText().contains(s))
+                    {
+                        //contains
+                        QrObject.add(qr);
+                    } else if(s.length() == 0) {
+                        Toast.makeText(getApplicationContext(),"list is clear",Toast.LENGTH_LONG).show();
+                        tempList.addAll(QrObject);
+                    }
+                }
+                qrDetailAdapter.notifyDataSetChanged();
+                return true;
+            }
+        });
+
     }
 
     public void intializeViews()
@@ -105,6 +136,29 @@ public class MainActivity extends AppCompatActivity
                 statement.bindString(2,formattedDate);
                 statement.bindString(3,d);
                 statement.execute();
+
+                AlertDialog.Builder alerta = new AlertDialog.Builder(MainActivity.this);
+                alerta.setMessage("Desea que los datos se suban al firebase ?").setCancelable(false).setPositiveButton("Si", new DialogInterface.OnClickListener()
+                {
+                    @Override
+                    public void onClick(DialogInterface dialog, int which)
+                    {
+
+                        finish();
+                    }
+                }).setNegativeButton("No", new DialogInterface.OnClickListener()
+                {
+                    @Override
+                    public void onClick(DialogInterface dialog, int which)
+                    {
+                        dialog.cancel();
+                    }
+                });
+
+                AlertDialog titulo = alerta.create();
+                titulo.setTitle("Guardando en el Firebase");
+                titulo.show();
+
                 cargarDatos(codig);
             }else {
                 tvBarCode.setText("Error al escanear el código de barras");
@@ -189,5 +243,9 @@ public class MainActivity extends AppCompatActivity
         // MainActivity m = new MainActivity();
         // m.performSql();
     }
+
+
+
+
 
 }

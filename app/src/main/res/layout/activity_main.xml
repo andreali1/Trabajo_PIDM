@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity"
-    android:background="#E6E5E6">
+    android:background="@drawable/fondo1">
 
     <ScrollView
         android:layout_width="match_parent"
@@ -23,23 +23,45 @@
                 android:layout_marginTop="20dp"
                 android:orientation="vertical">
 
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="38dp"
+                    android:gravity="center"
+                    android:text="Esnaner de Codigo QR y Barras"
+                    app:autoSizeTextType="uniform" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="25dp"
+                    android:text="Buscador"
+                    android:layout_marginTop="15dp"
+                    app:autoSizeTextType="uniform" />
+
                 <SearchView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:hint="Search Here For QR Text"
                     android:id="@+id/inputSearch"/>
 
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="32dp"
+                    android:layout_marginTop="29dp"
+                    android:text="Listado de lo Escaneado"
+                    android:gravity="center"
+                    app:autoSizeTextType="uniform" />
+
                 <ListView
                     android:id="@+id/qrDetailList"
                     android:layout_width="match_parent"
-                    android:layout_height="match_parent"
+                    android:layout_height="356dp"
+                    android:layout_marginTop="5dp"
+                    android:cacheColorHint="@android:color/transparent"
                     android:divider="@null"
                     android:dividerHeight="10dp"
-                    android:layout_marginTop="5dp"
-                    android:listSelector="@android:color/transparent"
-                    android:cacheColorHint="@android:color/transparent"
+                    android:footerDividersEnabled="true"
                     android:headerDividersEnabled="true"
-                    android:footerDividersEnabled="true" />
+                    android:listSelector="@android:color/transparent" />
 
             </LinearLayout>
 
@@ -63,6 +85,7 @@
                     app:layout_constraintRight_toRightOf="parent"
                     app:layout_constraintVertical_bias="0.101"
                     android:layout_marginLeft="20dp" />
+
 
                 <Button
                     android:id="@+id/btnScanner"
